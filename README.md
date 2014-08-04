@@ -13,7 +13,8 @@ possible uses of the (very) modular components.
 For one possible configuration, a very simplistic one, you could
 use this repo.
 
-An alternative convention is layout-flat, which is in it's own repo.
+An alternative convention is [layout-mvc](https://github.com/makesite/framework-mvc), 
+which is in it's own repo.
 
 Usage
 -----
